@@ -1,0 +1,19 @@
+name: "Ryan Whalen"
+navbar:
+  title: "Ryan Whalen"
+  left:
+    - text: "Education"
+      href: academics.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-envelope-o
+      href: mailto:whalenryan42@gmail.com
+    - icon: fa-github fa-lg
+      href: https://github.com/rwhalen710
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/ryan-whalen-a641a719b
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

@@ -1,0 +1,36 @@
+---
+title: " "
+pagetitle: "Ryan Whalen"
+---
+
+**B.S. in Environmental Informatics**, Virginia Tech Class of 2020
+
+### **Relevant Coursework**
+
+
+##### Database Technology
+  - Used SQL to create relational databases from normalized data models then inserted, edited, and deleted data from databases by using SQL statements
+  - Designed and developed SQL queries to retrieve data from multiple interrelated tables within the database
+  - Created and embeded stored procedures and triggers within MySQL databases
+
+##### Systems Development
+  - This course dealt with modeling semantically-driven object-oriented information systems and focused on requirements analysis, modeling, and design.
+  - Developed detailed data models for business problems using the systems development life cycle and created Extended Entity Relationship Diagrams to represent the data models
+
+##### Business Analytics Modeling
+  - Gained skills in Excel: Lookup Functions, Pivot Tables and Charts, Data Analysis Tools, Optimization, and Simulation
+  - Gained experience in advanced VBA programming and User Interface development
+
+##### Environmental Informatics
+  - Used advanced R programming to apply statistics and modeling to the analysis of environmental data collected at multiple spatial-temporal scales.
+
+##### Photogrammetry and Spatial Data Processing
+  - Identified changes in both land cover and land management through bi-temporal and multi-temporal change detection of remotely-sensed data from radar, lidar, and multispectral sensors from unmanned aerial vehicles, piloted aerial vehicles, and satellites.
+  - Used supervised and unsupervised learning models through ArcGIS Pro to analyze moderate and high resolution satellite images then classify the data into categories useful for natural resources and environmental management.
+  - Calculated leaf area index using both multispectral and lidar data and applied the resulting information to silvicultural decision making.
+
+##### Information Technology for Natural Resources Management
+  - Integrated publicly available spatial and tabular data from ESRI, USFS, USGS, NASA and a variety of other sources.
+  - Queried, summarized, and combined spatial data to produce maps and reports using ArcGIS (Desktop and Pro), QGIS, and Microsoft Access.
+  - Used Microsoft Access to analyze tabular data in a relational database by creating SQL summary, multi-table, crosstab, delete, update, and make-table queries.
+  - Analyzed raster data using ArcMap's Raster Calculator to query multiple raster layers and perform arithetic expressions on combinations of rasters
