@@ -3,10 +3,9 @@ title: " "
 pagetitle: "Ryan Whalen"
 ---
 
-**B.S. in Environmental Informatics**, Virginia Tech Class of 2020
+##### B.S. in Environmental Informatics, Virginia Tech, Class of 2020
 
-### **Relevant Coursework**
-
+#### **Relevant Coursework**
 
 ##### Database Technology
   - Used SQL to create relational databases from normalized data models then inserted, edited, and deleted data from databases by using SQL statements
