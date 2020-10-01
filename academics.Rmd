@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Education"
 pagetitle: "Ryan Whalen"
 ---
 

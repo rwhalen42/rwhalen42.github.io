@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: ~/Downloads/my_website/rwhalen42.github.io
