@@ -1,9 +1,10 @@
 ---
 title: " "
 pagetitle: "Ryan Whalen"
+output_dir: "."
 ---
 
-<img src="images/headshot.jpeg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/headshot.jpeg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
 **My name is Ryan Whalen** and I recently graduated from Virginia Tech in the spring of 2020 with a B.S. in Environmental Informatics. I'm an R enthusiast with an interest in data science, geospatial analysis, and business analytics. 
 

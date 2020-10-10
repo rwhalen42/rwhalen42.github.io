@@ -1,7 +1,9 @@
 ---
 title: "Education"
 pagetitle: "Ryan Whalen"
+output_dir: "."
 ---
+#### **Major**
 
 ##### B.S. in Environmental Informatics, Virginia Tech, Class of 2020
 
