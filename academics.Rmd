@@ -12,7 +12,7 @@ output_dir: "."
 ##### Database Technology
   - Used SQL to create relational databases from normalized data models then inserted, edited, and deleted data from databases by using SQL statements
   - Designed and developed SQL queries to retrieve data from multiple interrelated tables within the database
-  - Created and embeded stored procedures and triggers within MySQL databases
+  - Created and embedded stored procedures and triggers within MySQL databases
 
 ##### Systems Development
   - This course dealt with modeling semantically-driven object-oriented information systems and focused on requirements analysis, modeling, and design.
@@ -34,4 +34,4 @@ output_dir: "."
   - Integrated publicly available spatial and tabular data from ESRI, USFS, USGS, NASA and a variety of other sources.
   - Queried, summarized, and combined spatial data to produce maps and reports using ArcGIS (Desktop and Pro), QGIS, and Microsoft Access.
   - Used Microsoft Access to analyze tabular data in a relational database by creating SQL summary, multi-table, crosstab, delete, update, and make-table queries.
-  - Analyzed raster data using ArcMap's Raster Calculator to query multiple raster layers and perform arithetic expressions on combinations of rasters
+  - Analyzed raster data using ArcMap's Raster Calculator to query multiple raster layers and perform arithmetic expressions on combinations of rasters
